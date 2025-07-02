@@ -1,6 +1,6 @@
 Holiwis, como andas?
 
+<<<<<<< HEAD
 Todo bien, aprendiendo github. Y vos?
 
 Todo joya
-
